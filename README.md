@@ -1,6 +1,7 @@
+
 - 👋 Hi, I’m Jake Middleton,
 - 👀 I’m interested in AI, coding and all things data
-- 🌱 I’m currently learning about Computer Vision including GANs
+- 🌱 I’m currently learning about Computer Vision
 - 📫 Contact me! - (+44)7903789053, jakemiddleton4@gmail.com
 
 <!---
