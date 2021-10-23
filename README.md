@@ -11,5 +11,8 @@
 Feel free to check out my work! I have worked on:
 <ul>
  <li> Machine Learning </li>
+ <ul>
+  <li> Test </li>
+ </ul>
  <li> Automation </li>
 </ul>
