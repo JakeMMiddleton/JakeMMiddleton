@@ -1,7 +1,9 @@
- <h1> Welcome ! </h1>
+ <h1> Welcome to my GitHub! </h1>
+ 
 - 👋 Hi, I’m Jake Middleton,
-- 👀 I’m interested in AI, coding and all things data
+- 👀 I’m interested in AI, solving problems and all things data
 - 🌱 I’m currently learning about Computer Vision
+- :hear_no_evil: Fun Fact:  In the 1850’s, nearly every family in the U.S. had its own cow.. Keep checking in for more
 - 📫 Contact me! - (+44)7903789053, jakemiddleton4@gmail.com
 
 <!---
