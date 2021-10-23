@@ -6,7 +6,7 @@
 - 👀 Fun Fact: The eye is the fastest muscle in your body!
 - 📫 Contact me! - (+44)7903789053, jakemiddleton4@gmail.com
 
-Feel free to check out my work ive got stuff on:
+Feel free to check out my work! I have worked on:
 <ul>
  <li> Machine Learning </li>
  <li> Automation </li>
